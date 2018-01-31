@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700i');
+*{
+    margin: 0;
+    padding: 0;
+    text-align:  center;
+    /* font-size: 70px; */
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+body{
+font-family: 'Lato', sans-serif;
+color: black
+}
+
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+header{background: #323232;
+}
+.logo {width: 20%;
+    float: left;
+}
+.logo a {
+}
+.logo a img{
+}
+nav{}
+nav ul{text-align: center;}
+nav ul li{list-style: none;
+    color: #fafafa;
+    display: inline-block;}
+nav ul li a{
+    text-decoration: none;
+    color: #fafafa;
+    text-transform: none;
+    font-size: 20px;
+    display: block;
+    padding: 20px;
+    font-weight: 100;
+    }
+   
+nav ul li a:hover{}
+
+
+
+.banner-section {
+}
+.banner-content{
+
+}
+.banner-content h1{padding: 0px;}
+span{padding: 5px;color: #d16cca;}
+p{padding: 5px;}
+img{
+    /* padding: 0px; */
+    width: 100%;
+}
+
+.banner-content h2{}
+span{}
+
+.contact-section {
+    background-image: url(../images/iphonex.png);
+    background-repeat:  no-repeat;
+    background-size:  cover;
+    padding-bottom: 60px;
+}
+form {
+}
+
+.form input{
+    width: 100%;
+    border: 0;
+    padding: 8px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+.form textarea{
+    width: 100%;
+    border-radius: 5px;
+    border: 0;
+    padding: 8px;
+}
+.form .submit{
+    margin-bottom: 0;
+    width: auto;
+    float: right;
+    padding: 10px 30px;
+    background: transparent;
+    color: #fff;
+    border: 1px solid;
+    text-transform: uppercase;
+}
+
+
+footer{}
+.copyright {}
+.copyright p{
+}
+.social {
+}
+.social ul{
+}
+.social ul li{
+}
+.social ul li a{
+}
+.social ul li a:hover{
+}
+
+.iphonex{}
+.col{}
